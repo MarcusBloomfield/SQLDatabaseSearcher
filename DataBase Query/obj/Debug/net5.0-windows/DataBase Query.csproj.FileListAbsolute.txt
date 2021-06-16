@@ -1,0 +1,28 @@
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\DataBase Query.exe
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\DataBase Query.deps.json
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\DataBase Query.runtimeconfig.json
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\DataBase Query.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\DataBase Query.dll
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\ref\DataBase Query.dll
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\DataBase Query.pdb
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase Query.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase Query.csproj.GenerateResource.cache
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase Query.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase Query.AssemblyInfo.cs
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase Query.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase Query.dll
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\ref\DataBase Query.dll
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase Query.pdb
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase Query.genruntimeconfig.cache
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\DataBase Query.dll.config
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\Dapper.dll
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase Query.csproj.CopyComplete
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase_Query.AddUserDialog.resources
+C:\Users\marcu\source\repos\DataBase Query\DataBase Query\obj\Debug\net5.0-windows\DataBase_Query.MainDialog.resources
